@@ -1,6 +1,6 @@
-<h1>Makers Projects</h1>
+<h1>Makers Recap</h1>
 
-<h1>This repository contains projects and exercises I have completed at Makers</h1>
+<h1>This repository contains challenges and exercises I have completed at Makers</h1>
 
 <h3>Main Technologies:</h3>
 
